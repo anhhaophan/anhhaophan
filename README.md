@@ -7,7 +7,8 @@
 
 ### 🚀 About Me
 - 🌱 I’m currently exploring **Web Development** and **Computer Networking**.  
-- 💡 I love solving problems and turning ideas into code.  
+- 💡 I love solving problems and turning ideas into code.
+- 🧑‍🏫 Mentor at FDoder Club – FPT University Can Tho, helping others learn and grow in the world of coding.
 - ⚡ Fun fact: I spend more time debugging than coding (but that’s where the real learning happens 😉).
 
 ---

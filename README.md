@@ -4,7 +4,7 @@
 
 🎓 Software Engineering student at **FPT University Can Tho** (2024 - 2028)
 🔐 I build **RESTful APIs** with **Spring Boot**, focusing on **authentication (JWT)**, **role-based access control (RBAC)** and **database integration**.
-🧑‍🏫 Mentor at **FDoder Club**, FPT University Can Tho, helping other students learn to code.
+🧑‍🏫 Mentor at **FCoder Club**, FPT University Can Tho, helping other students learn to code.
 🏅 Consolation Prize, Informatics Excellent Student Contest 
 📍 Ninh Kieu, Can Tho, Vietnam
 

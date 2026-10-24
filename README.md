@@ -2,25 +2,25 @@
 
 ### ☕ Java Backend Developer Intern (seeking)
 
-🎓 Software Engineering student at **FPT University Can Tho** (2024 - 2028)
-🔐 I build **RESTful APIs** with **Spring Boot**, focusing on **authentication (JWT)**, **role-based access control (RBAC)** and **database integration**.
-🧑‍🏫 Mentor at **FCoder Club**, FPT University Can Tho, helping other students learn to code.
-🏅 Consolation Prize, Informatics Excellent Student Contest 
+🎓 Software Engineering student at **FPT University Can Tho** (2024 - 2028)<br>
+🔐 Building **RESTful APIs** with **Spring Boot**, focusing on **JWT authentication**, **RBAC**, and **database integration**.<br>
+🧑‍🏫 Mentor at **FCoder Club**, FPT University Can Tho, helping other students learn to code.<br>
+🏅 Consolation Prize, Informatics Excellent Student Contest<br>
 📍 Ninh Kieu, Can Tho, Vietnam
 
 ---
 
 ## 🚀 Projects
+### 🏬 [M4N - E-commerce Platform](https://github.com/mannvce200244-hub/SWP391_GROUP6) <sup>Team project · 9/2026 - Present</sup>
+Role: **Java Backend Developer**
+- Developed backend authorisation with **Spring Security + RBAC**
+- Built a **JWT-based authentication** mechanism and API access control for multiple user roles
+
 
 ### 🛒 [MiniShop - E-commerce REST API](https://github.com/anhhaophan/MyE-Shop) <sup>Personal project · 5/2026 - 6/2026</sup>
 Backend for an e-commerce app: product, user, cart and order management.
 - **Stack:** Java, Spring Boot, Spring Security, Spring Data JPA, SQL Server
 - **Highlights:** JWT authentication, role-based access control (ADMIN / USER), BCrypt password hashing, API documentation with Swagger (OpenAPI)
-
-### 🏬 [M4N - E-commerce Platform](https://github.com/mannvce200244-hub/SWP391_GROUP6) <sup>Team project · 9/2026 - Present</sup>
-Role: **Java Backend Developer**
-- Developed backend authorisation with **Spring Security + RBAC**
-- Built a **JWT-based authentication** mechanism and API access control for multiple user roles
 
 
 
